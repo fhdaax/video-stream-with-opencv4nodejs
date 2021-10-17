@@ -1,3 +1,3 @@
 # video-stream-with-opencv4nodejs
 
-Broadcasting video from server webcam.
+An example of broadcasting video from server webcam.
